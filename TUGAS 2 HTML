@@ -1,0 +1,41 @@
+<!DOCTYPE Html>
+<html>
+    <head>
+        <title>Rijksmuseum</title>
+        </head>
+    <body style="background-color: blanchedalmond;"></body>
+        <h1><center>RIJKSMUSEUM . AMSTERDAM</center></h1>
+            <p><center style="color:midnightblue">Salsabila Hasna Zahra NIM 11210251000016</center></p>
+                <div style="background-color:peru;display:flex; justify-content:center; align-items: center;">
+                <img src="images/Rijksmuseum.jpg"width="400"hight="200">
+                </div>
+<br>
+    <h2>Pengertian Museum</h2>
+        <p align="justify">Museum adalah institusi kebudayaan yang didedikasikan untuk pengumpulan, pelestarian, katalogisasi, dan pameran 
+        benda dan artefak yang bernilai sejarah, seni, ilmu pengetahuan, atau budaya. Museum memiliki peran penting dalam mempromosikan 
+        pendidikan, penelitian dan pemahaman tentang sejarah, seni dan budaya manusia.Salah satu museum terbesar di Amsterdam yaitu 
+        Rijksmuseum, dimana museum tersebut menyimpan banyak sekali koleksi sejarah Belanda.</p>
+    <h2>Apa itu Rijksmuseum?</h2>
+        <p align="justify">Rijksmuseum adalah museum seni dan sejarah yang terletak di Amsterdam, Belanda. Museum ini adalah salah satu 
+        museum terbesar dan paling terkenal di Belanda dan salah satu koleksi artefak seni dan sejarah Belanda terpenting di dunia. 
+        Didirikan pada tahun 1800, Rijksmuseum menyimpan beragam koleksi seni dan artefak sejarah, termasuk lukisan, patung, perhiasan, 
+        barang-barang rumah tangga, dan banyak lagi.</p> Koleksi Rijksmuseum yang paling terkenal antara lain beberapa lukisan karya 
+        seniman terkenal seperti Rembrandt van Rijn, Johannes Vermeer dan Frans Hals. Salah satu lukisan paling terkenal di museum adalah 
+        "The Night Watch" karya Rembrandt, yang dianggap sebagai salah satu lukisan terpenting dalam sejarah seni Barat. Selain lukisan, 
+        Rijksmuseum juga menyimpan karya seni terapan, antara lain perhiasan, keramik, peralatan rumah tangga, dan berbagai artefak 
+        sejarah lainnya yang mencerminkan sejarah dan budaya Belanda.</h1>
+    <h2>Sejarah singkat Rijaksmuseum</h2>
+        <p align="justify">Rijksmuseum adalah salah satu museum paling terkenal di Belanda, dengan sejarah yang panjang dan luas. 
+        Museum ini awalnya didirikan di Den Haag pada tahun 1800 dengan nama National Kunstgalerij, namun dipindahkan ke Amsterdam 
+        pada tahun 1808 oleh Raja Louis Bonaparte. Dikenal sebagai "Museum Koninklijk" atau Museum Kerajaan, koleksinya terus 
+        bertambah sepanjang abad ke-19, menambah beragam karya seni dan artefak sejarah penting Belanda. Pada tahun 1885, bangunan 
+        ikonik yang dirancang oleh arsitek Pierre Cuypers dibuka sebagai ruang penyimpanan dan pameran koleksi. Museum ini berganti 
+        nama menjadi RIJAKSMUSEUM pada tahun 1953 dan kemudian mengalami renovasi besar-besaran yang berlangsung lebih dari satu 
+        dekade pada awal abad ke-21. Setelah restorasi, Rijksmuseum dibuka kembali untuk umum pada tahun 2013 dan merupakan tujuan 
+        wisata utama serta rumah bagi koleksi seni dan artefak sejarah Belanda yang luar biasa.</p>
+        <br>
+            <p style="background-color:darkgoldenrod;display: flex;justify-content:center; align-items: center; font-size: large;color: white; 
+               height:75;">Terima Kasih sudah membaca</p>
+        <p> Referensi, <a href="https://artsandculture.google.com/partner/rijksmuseum">klik disini</a><p>
+    </body>
+</html>
