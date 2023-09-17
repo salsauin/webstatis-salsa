@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>
+    Belajar Membuat Website Statis dengan HTML5
+</title>
+</head>
+<body>
+    <h1> Belajar Dasar HTML5
+         <p>Alhamdulillah, hari ini saya belajar dasar-dasar membuat website HTML5
+<br>
+    <h2>Salsabila Hasna Zahra</h2>
+         <p>Nama saya Salsabila Hasna Zahra, semester 5</p>
+<br>
+    <h3>ini heading 3</h3>
+    <h4>ini heading 4</h4>
+    <h5>ini heading 5</h5>
+    <h6>ini heading 6</h6>
+<br>
+<a href="https://uinjkt.ac.id">ini website UIN Jakarta</a>
+<br>
+<img src="images/foto uin.jpg" width="504"hight="242">
+</h3>
+    </P>
+</h1>
+</body>
+</html>
+
+
